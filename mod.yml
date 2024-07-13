@@ -1,0 +1,80 @@
+title: I C U
+originalAuthor: danimalforlife
+description: Fixes the crowding issue by replacing them with Sora.
+
+assets:
+
+#Rapid Thruster (CROWD)
+- name: remastered\obj\M_EX660_CROWD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Crowds\M_EX660_CROWD.mdlx\-0.dds
+
+
+#Rapid Thruster (E_CROWD)
+- name: remastered\obj\M_EX660_E_CROWD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Crowds\M_EX660_E_CROWD.mdlx\-0.dds
+
+
+#Armored Knight (CROWD)
+- name: remastered\obj\M_EX760_CROWD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Crowds\M_EX760_CROWD.mdlx\-0.dds
+
+
+#Surveillance Robot (CROWD)
+- name: remastered\obj\M_EX760_CROWD.mdlx\-1.dds
+  method: copy
+  source:
+  - name: Crowds\M_EX760_CROWD.mdlx\-1.dds
+
+
+#Bolt Tower (E_CROWD)
+- name: remastered\obj\M_EX800_E_CROWD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Crowds\M_EX800_E_CROWD.mdlx\-0.dds
+
+
+#Dusk (E_CROWD)
+- name: remastered\obj\M_EX990_E_CROWD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Crowds\M_EX990_E_CROWD.mdlx\-0.dds
+
+
+#Wildebeest (E_CROWD_1)
+- name: remastered\obj\N_LK070_E_CROWD_1.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Crowds\N_LK070_E_CROWD_1.mdlx\-0.dds
+
+
+#Wildebeest (E_CROWD_2)
+- name: remastered\obj\N_LK070_E_CROWD_2.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Crowds\N_LK070_E_CROWD_2.mdlx\-0.dds
+
+
+#Wildebeest (E_CROWD_3)
+- name: remastered\obj\N_LK070_E_CROWD_3.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Crowds\N_LK070_E_CROWD_3.mdlx\-0.dds
+
+
+#Chinese Soldier 1 (E_CROWD) (MU)
+- name: remastered\obj\N_MU060_E_CROWD.mdlx\-0.dds
+  method: copy
+  source:
+  - name: Crowds\N_MU060_E_CROWD.mdlx\-0.dds
+
+#Chinese Soldier 2 (E_CROWD) (MU)
+- name: remastered\obj\N_MU060_E_CROWD.mdlx\-1.dds
+  method: copy
+  source:
+  - name: Crowds\N_MU060_E_CROWD.mdlx\-1.dds
